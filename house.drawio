@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net">
   <diagram name="Page-1" id="6NQlcPZuyjTQzcLrw3k1">
-    <mxGraphModel dx="2005" dy="648" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2241" dy="777" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -441,46 +441,6 @@
         <mxCell id="VPb2J3Bvi1ojm7h7c4zs-62" parent="1" style="pointerEvents=1;verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;shape=mxgraph.electrical.miscellaneous.ac_out;labelPerimeter=1;rotation=0;fillColor=#f9f7ed;strokeColor=#36393d;" value="" vertex="1">
           <mxGeometry height="20" width="50" x="675" y="448.00000000000006" as="geometry" />
         </mxCell>
-        <mxCell id="VPb2J3Bvi1ojm7h7c4zs-63" parent="1" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://icons.diagrams.net/assets/material-symbols/1/Curtains_Closed.svg;labelPerimeter=1;" value="" vertex="1">
-          <mxGeometry height="40" width="40" x="334.94" y="640" as="geometry" />
-        </mxCell>
-        <mxCell id="VPb2J3Bvi1ojm7h7c4zs-64" parent="1" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://icons.diagrams.net/assets/material-symbols/1/Curtains_Closed.svg;labelPerimeter=1;" value="" vertex="1">
-          <mxGeometry height="40" width="40" x="690" y="640" as="geometry" />
-        </mxCell>
-        <mxCell id="VPb2J3Bvi1ojm7h7c4zs-65" parent="1" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://icons.diagrams.net/assets/material-symbols/1/Curtains_Closed.svg;labelPerimeter=1;" value="" vertex="1">
-          <mxGeometry height="43" width="43" x="70" y="637" as="geometry" />
-        </mxCell>
-        <mxCell id="VPb2J3Bvi1ojm7h7c4zs-66" parent="1" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://icons.diagrams.net/assets/material-symbols/1/Curtains_Closed.svg;labelPerimeter=1;" value="" vertex="1">
-          <mxGeometry height="40" width="40" x="760" y="265" as="geometry" />
-        </mxCell>
-        <mxCell id="VPb2J3Bvi1ojm7h7c4zs-67" parent="1" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://icons.diagrams.net/assets/material-symbols/1/Curtains_Closed.svg;labelPerimeter=1;" value="" vertex="1">
-          <mxGeometry height="40" width="40" x="580" y="40" as="geometry" />
-        </mxCell>
-        <mxCell id="VPb2J3Bvi1ojm7h7c4zs-68" parent="1" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://icons.diagrams.net/assets/material-symbols/1/Curtains_Closed.svg;labelPerimeter=1;" value="" vertex="1">
-          <mxGeometry height="43" width="43" x="-183" y="37" as="geometry" />
-        </mxCell>
-        <mxCell id="VPb2J3Bvi1ojm7h7c4zs-69" edge="1" parent="1" source="VPb2J3Bvi1ojm7h7c4zs-68" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.486;entryY=-0.1;entryDx=0;entryDy=0;entryPerimeter=0;defaultLabelBackgroundColor=page;labelPadding=0 4;" target="ZtYuzLUywlP8hzS3Fng5-136">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="VPb2J3Bvi1ojm7h7c4zs-70" edge="1" parent="1" source="VPb2J3Bvi1ojm7h7c4zs-67" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.611;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;defaultLabelBackgroundColor=page;labelPadding=0 4;" target="ZtYuzLUywlP8hzS3Fng5-143">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="VPb2J3Bvi1ojm7h7c4zs-71" edge="1" parent="1" source="VPb2J3Bvi1ojm7h7c4zs-66" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.509;entryY=-0.06;entryDx=0;entryDy=0;entryPerimeter=0;defaultLabelBackgroundColor=page;labelPadding=0 4;" target="ZtYuzLUywlP8hzS3Fng5-142">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="VPb2J3Bvi1ojm7h7c4zs-72" edge="1" parent="1" source="VPb2J3Bvi1ojm7h7c4zs-64" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.529;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;defaultLabelBackgroundColor=page;labelPadding=0 4;" target="ZtYuzLUywlP8hzS3Fng5-40">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="VPb2J3Bvi1ojm7h7c4zs-73" edge="1" parent="1" source="VPb2J3Bvi1ojm7h7c4zs-63" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.75;exitDx=0;exitDy=0;entryX=0.454;entryY=1.2;entryDx=0;entryDy=0;entryPerimeter=0;defaultLabelBackgroundColor=page;labelPadding=0 4;" target="ZtYuzLUywlP8hzS3Fng5-134">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="VPb2J3Bvi1ojm7h7c4zs-74" edge="1" parent="1" source="VPb2J3Bvi1ojm7h7c4zs-65" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.435;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;defaultLabelBackgroundColor=page;labelPadding=0 4;" target="ZtYuzLUywlP8hzS3Fng5-135">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="-39.9" y="658.5" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
         <mxCell id="VPb2J3Bvi1ojm7h7c4zs-75" parent="1" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;shape=mxgraph.floorplan.sink_22;labelPerimeter=1;rotation=-90;fillColor=#a0522d;strokeColor=#6D1F00;fontColor=#ffffff;" value="" vertex="1">
           <mxGeometry height="20" width="40" x="564" y="150" as="geometry" />
         </mxCell>
@@ -516,6 +476,48 @@
         </mxCell>
         <mxCell id="VPb2J3Bvi1ojm7h7c4zs-82" parent="1" style="verticalLabelPosition=bottom;sketch=0;html=1;fillColor=#6ABD46;strokeColor=#ffffff;bgColor=#C2E0AE;bgDotColor=#ffffff;verticalAlign=top;align=center;points=[[0.085,0.085,0],[0.915,0.085,0],[0.915,0.915,0],[0.085,0.915,0],[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];pointerEvents=1;shape=mxgraph.cisco_safe.compositeIcon;bgIcon=mxgraph.cisco_safe.architecture.generic_appliance;resIcon=mxgraph.cisco_safe.architecture.flow_sensor;labelPerimeter=1;" value="" vertex="1">
           <mxGeometry height="10" width="10" x="527.5" y="178.5" as="geometry" />
+        </mxCell>
+        <mxCell id="VPb2J3Bvi1ojm7h7c4zs-83" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;fillColor=#b1ddf0;strokeColor=#10739e;" value="" vertex="1">
+          <mxGeometry height="20" width="17" x="324" y="452" as="geometry" />
+        </mxCell>
+        <mxCell id="VPb2J3Bvi1ojm7h7c4zs-84" parent="1" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://icons.diagrams.net/icon-cache1/bitsies_-2960/Lightning-1449.svg;labelPerimeter=1;" value="" vertex="1">
+          <mxGeometry height="17" width="17" x="324" y="453.5" as="geometry" />
+        </mxCell>
+        <mxCell id="VPb2J3Bvi1ojm7h7c4zs-85" parent="1" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://icons.diagrams.net/assets/tabler-outline/1/Solar_Electricity.svg;labelPerimeter=1;" value="" vertex="1">
+          <mxGeometry height="48" width="48" x="335.94" y="640" as="geometry" />
+        </mxCell>
+        <mxCell id="VPb2J3Bvi1ojm7h7c4zs-86" edge="1" parent="1" source="VPb2J3Bvi1ojm7h7c4zs-85" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.502;entryY=1.194;entryDx=0;entryDy=0;entryPerimeter=0;defaultLabelBackgroundColor=page;labelPadding=0 4;" target="ZtYuzLUywlP8hzS3Fng5-134">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="VPb2J3Bvi1ojm7h7c4zs-87" parent="1" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://icons.diagrams.net/assets/tabler-outline/1/Solar_Electricity.svg;labelPerimeter=1;" value="" vertex="1">
+          <mxGeometry height="48" width="48" x="656" y="640" as="geometry" />
+        </mxCell>
+        <mxCell id="VPb2J3Bvi1ojm7h7c4zs-88" edge="1" parent="1" source="VPb2J3Bvi1ojm7h7c4zs-87" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.507;entryY=1.006;entryDx=0;entryDy=0;entryPerimeter=0;defaultLabelBackgroundColor=page;labelPadding=0 4;" target="ZtYuzLUywlP8hzS3Fng5-40">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="VPb2J3Bvi1ojm7h7c4zs-89" parent="1" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://icons.diagrams.net/assets/tabler-outline/1/Solar_Electricity.svg;labelPerimeter=1;" value="" vertex="1">
+          <mxGeometry height="48" width="48" x="760" y="249" as="geometry" />
+        </mxCell>
+        <mxCell id="VPb2J3Bvi1ojm7h7c4zs-90" edge="1" parent="1" source="VPb2J3Bvi1ojm7h7c4zs-89" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.399;entryY=-0.044;entryDx=0;entryDy=0;entryPerimeter=0;defaultLabelBackgroundColor=page;labelPadding=0 4;" target="ZtYuzLUywlP8hzS3Fng5-142">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="VPb2J3Bvi1ojm7h7c4zs-91" parent="1" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://icons.diagrams.net/assets/tabler-outline/1/Solar_Electricity.svg;labelPerimeter=1;" value="" vertex="1">
+          <mxGeometry height="48" width="48" x="686" y="32" as="geometry" />
+        </mxCell>
+        <mxCell id="VPb2J3Bvi1ojm7h7c4zs-92" edge="1" parent="1" source="VPb2J3Bvi1ojm7h7c4zs-91" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.25;exitDx=0;exitDy=0;entryX=0.442;entryY=0.083;entryDx=0;entryDy=0;entryPerimeter=0;defaultLabelBackgroundColor=page;labelPadding=0 4;" target="ZtYuzLUywlP8hzS3Fng5-143">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="VPb2J3Bvi1ojm7h7c4zs-93" parent="1" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://icons.diagrams.net/assets/tabler-outline/1/Solar_Electricity.svg;labelPerimeter=1;" value="" vertex="1">
+          <mxGeometry height="48" width="48" x="-203" y="30" as="geometry" />
+        </mxCell>
+        <mxCell id="VPb2J3Bvi1ojm7h7c4zs-94" edge="1" parent="1" source="VPb2J3Bvi1ojm7h7c4zs-93" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.25;exitDx=0;exitDy=0;entryX=0.499;entryY=-0.333;entryDx=0;entryDy=0;entryPerimeter=0;defaultLabelBackgroundColor=page;labelPadding=0 4;" target="ZtYuzLUywlP8hzS3Fng5-136">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="VPb2J3Bvi1ojm7h7c4zs-95" parent="1" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://icons.diagrams.net/assets/tabler-outline/1/Solar_Electricity.svg;labelPerimeter=1;" value="" vertex="1">
+          <mxGeometry height="48" width="48" x="92" y="639.62" as="geometry" />
+        </mxCell>
+        <mxCell id="VPb2J3Bvi1ojm7h7c4zs-96" edge="1" parent="1" source="VPb2J3Bvi1ojm7h7c4zs-95" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.75;exitDx=0;exitDy=0;entryX=0.565;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;defaultLabelBackgroundColor=page;labelPadding=0 4;" target="ZtYuzLUywlP8hzS3Fng5-135">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
